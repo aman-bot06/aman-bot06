@@ -9,7 +9,7 @@
 
 `HTML` `CSS` `JavaScript` `Node.js` `Express` `MongoDB`
 
-`Python` `Git` `Linux` `Web3` `Solidity` `css`
+`Python` `Git` `Linux` `Web3` `Solidity`
 
 ---
 
