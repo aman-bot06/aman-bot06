@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amandeep 👨‍💻
+# Aman-Bot06 👨‍💻
 
 ```bash
 > First Year CSE Student
