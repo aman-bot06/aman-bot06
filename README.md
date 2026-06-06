@@ -7,21 +7,17 @@
 ---
 ### ⚡ Tech
 
-`JavaScript` `Node.js` `Express` `MongoDB`
+`HTML` `CSS` `JavaScript` `Node.js` `Express` `MongoDB`
 
-`Python` `Git` `Linux` `Web3`
+`Python` `Git` `Linux` `Web3` `Solidity` `css`
 
 ---
 
 ### 🎯 Current Mission
 
-🚀 Become a Skilled Backend Developer
+🚀 Become a Skilled Backend Developer    🤖 Build AI Projects
 
-🔐 Learn Cybersecurity
-
-🤖 Build AI Projects
-
-🏆 Win Hackathons
+🔐 Learn Cybersecurity                    🏆 Win Hackathons
 
 ---
 
